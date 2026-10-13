@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Đặng Quang Huy / 20260296  **Commit:** (điền sau khi push)  **Điểm tự động (`make grade`):** 84 / 88
+**Họ tên / nhóm:** Đặng Quang Huy / 20260296  **Commit:** c15049092337825141b8c1c8c4dc886d0c771577  **Điểm tự động (`make grade`):** 84 / 88
 
 > Phần E ẩn (+4) do giảng viên chấm. Mọi số dưới đây lấy từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`, `reports/cache/*.json` (seed 25).
 
